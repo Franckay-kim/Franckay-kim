@@ -22,9 +22,9 @@ I build enterprise applications, banking integrations, and secure portals using 
 ## GitHub Projects
 This profile contains demonstration projects reflecting the architecture and integration patterns I use in enterprise systems.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏦 Banking Payments API Demo
+### Banking Payments API Demo
 
 Enterprise-style payments API demonstrating transaction validation, duplicate prevention, reconciliation, and secure admin endpoints.
 
