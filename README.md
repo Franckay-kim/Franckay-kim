@@ -22,6 +22,22 @@ I build enterprise applications, banking integrations, and secure portals using 
 ## GitHub Projects
 This profile contains demonstration projects reflecting the architecture and integration patterns I use in enterprise systems.
 
+## 🚀 Featured Projects
+
+### 🏦 Banking Payments API Demo
+
+Enterprise-style payments API demonstrating transaction validation, duplicate prevention, reconciliation, and secure admin endpoints.
+
+[View Repository](https://github.com/Franckay-kim/banking-payments-api-demo)
+
+Tech Stack:
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQLite
+- JWT Authentication
+- Swagger
+
 ## Contact
 Email: fkim6322@gmail.com  
 LinkedIn: https://linkedin.com/in/frankline-kimathi
