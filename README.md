@@ -1,8 +1,17 @@
 # Frankline Kimathi
 
-Full Stack Developer | Financial Systems Integration
+**Full Stack Developer | Banking, ERP & Financial Systems Integration**
 
-I build enterprise applications, banking integrations, and secure portals using modern full-stack technologies.
+I build enterprise applications, secure portals, and integration services using **C#**, **.NET**, **Python (Flask)**, **React**, **SQL Server**, and **Microsoft Dynamics 365 Business Central**.
+
+Most of my production work involves private enterprise. The public repositories here are safe demonstrations of the same architectural patterns I use in real-world projects.
+
+My work focuses on:
+- Banking and payment integrations
+- ERP integrations
+- Secure web portals
+- REST and SOAP APIs
+- Enterprise backend services
 
 ## Core Technologies
 - C#
