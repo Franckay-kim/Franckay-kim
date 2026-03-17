@@ -4,6 +4,7 @@
 
 I build enterprise applications, secure portals, and integration services using **C#**, **.NET**, **Python (Flask)**, **React**, **SQL Server**, and **Microsoft Dynamics 365 Business Central**.
 
+## Portfolio Note
 Most of my production work involves private enterprise. The public repositories here are safe demonstrations of the same architectural patterns I use in real-world projects.
 
 My work focuses on:
