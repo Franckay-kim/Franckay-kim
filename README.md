@@ -47,6 +47,12 @@ Tech Stack:
 - JWT Authentication
 - Swagger
 
+### Member Portal React + Flask
+
+Full stack member portal demonstrating secure authentication, OTP verification, password setup, and a modern enterprise-style dashboard.
+
+[View Repository](https://github.com/Franckay-kim/member-portal-react-flask)
+
 ## Contact
 Email: fkim6322@gmail.com  
 LinkedIn: https://linkedin.com/in/frankline-kimathi
