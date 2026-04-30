@@ -19,6 +19,7 @@ My work focuses on:
 - ASP.NET / .NET
 - Python (Flask)
 - React
+- Docker
 - SQL Server
 - Microsoft Dynamics 365 Business Central
 
